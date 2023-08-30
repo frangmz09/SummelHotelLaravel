@@ -1,0 +1,133 @@
+.adm-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #000;
+    font-size: 30px;
+}
+.adm-subtitle{
+    text-align: start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #000;
+    font-size: 20;
+}
+.admb-btnred{
+        margin-left: 150px;
+        font-family: 'Roboto', sans-serif;
+        margin-top: 50px;
+        display: inline-block;
+        font-weight:bold;
+        text-align: center;
+        border: 1px solid transparent;
+        font-size: 15px;
+        line-height: 1.5;
+        padding: 5px;
+        border-radius: .25rem;
+        color: #000;
+        background-color: #ED1515;
+        border-radius: 15px;
+    }
+.admb-btnred:hover{
+    background-color: #7e0d0d;
+
+}
+.admb-btngreen{
+    margin-left: 230px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    display: inline-block;
+    font-weight:bold;
+    text-align: center;
+    border: 1px solid transparent;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 5px;
+    border-radius: .25rem;
+    color: #000;
+    border-radius: 15px;
+    background-color: #13AD1A;
+}
+.link-btngreen{
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-weight:bold;
+}
+.link-btngreen:hover{
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-weight:bold;
+}
+.admb-btngreen:hover{
+    background-color: #0d7212;
+    color: #000;
+    text-decoration: none;
+}
+
+.editorpublicaciones-selector{
+    padding: 15px;
+    background-color: #D9D9D9;
+    height: 463px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.adm-text{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #000;
+
+}
+.adm-text-title{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #000;
+
+}
+.adm-textnro{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #000;
+}
+.admb-delete{
+    display: inline-block;
+    border: 1px solid transparent;
+    padding: 2px 50%;
+    border-radius: 5px;
+    background-color: #C50C0C;
+}
+.admb-edit{
+    display: inline-block;
+    border: 1px solid transparent;
+    padding: 2px 50%;
+    border-radius: 5px;
+    background-color: #F69A10;
+}
+.filaeditor{
+    margin-top: 5px;
+}
+.filaeditor p{
+    margin-top: 3px;
+}
+.editorpublicaciones{
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.admcheckbox{
+}
+.visorhabitaciones{
+    padding: 15px;
+    margin-bottom: 50px;
+}
+.selectadm{
+    margin-top: 25px;
+}
+.admb-restore{
+    display: inline-block;
+    border: 1px solid transparent;
+    padding: 2px 50%;
+    border-radius: 5px;
+    background-color: #7b3b99;
+}

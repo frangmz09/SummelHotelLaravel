@@ -1,0 +1,11 @@
+.contact-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+}
+.contact-info{
+    margin-top: 25%;
+    margin-left: 10%;
+}

@@ -1,0 +1,54 @@
+.form-create{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: 600px;
+}
+.titulo{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+}
+.cancl-btn{
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    font-weight:bold;
+    text-align: center;
+    border: 1px solid transparent;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 7px;
+    border-radius: .25rem;
+    color: #000;
+    border-radius: 15px;
+    background-color: #C50C0C;
+}
+.cancl-btn:hover{
+    background-color: #7e0d0d;
+    color: #000;
+    text-decoration: none;
+}
+.sbmt-btn{
+        font-family: 'Roboto', sans-serif;
+        display: inline-block;
+        font-weight:bold;
+        text-align: center;
+        border: 1px solid transparent;
+        font-size: 15px;
+        line-height: 1.5;
+        padding: 7px;
+        border-radius: .25rem;
+        color: #000;
+        background-color: #13AD1A;
+        border-radius: 15px;
+}
+.sbmt-btn:hover{
+    background-color: #0d7212;
+}
+.form-ing{
+    margin-bottom: 10px;
+}
