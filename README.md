@@ -28,5 +28,8 @@ Por el momento archivado, al corto plazo se le busca agregar más funcionalidad,
 
 
 ## Enlace al Demo 🚀
+La contraseña de ambos usuarios es 123123123
+admin: prueba@administrador.com
+usuario: prueba@usuario.com
 
 [¡Prueba Summel ahora!](http://summel.infinityfreeapp.com/)
