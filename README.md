@@ -67,4 +67,4 @@ Por el momento archivado, al corto plazo se le busca agregar más funcionalidad,
 
 ## Enlace al Demo 🚀
 
-[¡Prueba Summel ahora!](http://summel.infinityfreeapp.com/)http://summel.infinityfreeapp.com/)
+[¡Prueba Summel ahora!](http://summel.infinityfreeapp.com/)
